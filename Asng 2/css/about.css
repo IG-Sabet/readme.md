@@ -1,0 +1,61 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+/* Header Section */
+header{
+	width: 100%;
+    padding: 15px 0;
+    border-bottom: 5px solid #e4e4e4;
+}
+
+.nav-link{
+    margin: 0 15px;
+    font-size: 17px;
+    color: grey;
+}
+
+.nav-link:hover{
+    color: black;
+}
+
+/* About Section */
+
+.about{
+	width: 100%;
+	float: left;
+}
+.about-title{
+	font-size: 46px;
+    padding: 40px 0px;
+}
+.about-title h1{
+	font-size: 46px;
+    padding: 40px 0px;
+}
+.about-title p{
+	font-size: 16px;
+    color: gray;
+}
+.about-img{
+    padding: 90px 0px;
+}
+
+.about-img p{
+	font-size: 16px;
+    color: gray;
+}
+
+/* footer section */
+footer{
+	width: 100%;
+	float: left;
+    padding: 29px 0px;
+    text-align: center;
+    background: #F23E2C;
+    color: white; 
+}
+h2{
+	font-size: 19px;
+    font-weight: 400;
+}
